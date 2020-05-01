@@ -1,0 +1,3 @@
+ADMIN -> admin@admin.fr     password:test
+
+USER -> toto@nono.fr     password:test
